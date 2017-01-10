@@ -4,7 +4,7 @@ This cpp program reads, stores, computes, and sorts the overall grades of
 students by building up a Student_info class where we have defined all the necessary constructors,
 private data members and public member functions such as Student_info::read(cin).
 
-## The Code::Block Management Tree looks like this:
+### The Code::Block Management Tree looks like this:
 
 ## Header Files:
 
